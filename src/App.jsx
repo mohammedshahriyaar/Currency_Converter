@@ -72,7 +72,6 @@ function App() {
                             onCurrencyChange={ (currency) => setTo(currency)}
                             selectCurrency={to}
                             amountDisable
-
                         />
                     </div>
                     <button type="submit" className="w-full bg-gray-600 text-white px-4 py-3 rounded-lg">
